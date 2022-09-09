@@ -1,0 +1,32 @@
+b{color: brown;
+
+}
+footer h2 a b{
+	color: blue;
+}
+.metauniverse{
+	color: maroon;
+}
+.blueviolet{
+	color: blueviolet;
+}
+.text > p{
+	color: darkgreen;
+}
+#earningsof-metovsilen ~ p{
+	color: chartreuse;
+}
+#metaverse-works + p{
+	color: darkblue;
+}
+#what-is,
+#metaverse-works{
+	color: darkorchid;
+}
+.my-span.red{
+	color: red;
+}
+.my-span{
+	color: hotpink;
+	text-decoration: underline;
+}
